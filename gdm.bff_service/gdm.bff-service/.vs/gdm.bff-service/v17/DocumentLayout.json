@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PERSONAL_PROJECTS\\DESAFIO_GDM\\gdm.bff_service\\gdm.bff-service\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C771BEC-E2CF-4FEA-BC3F-BF1C929E3EB8}|gdm.bff-service\\gdm.bff-service.csproj|c:\\personal_projects\\desafio_gdm\\gdm.bff_service\\gdm.bff-service\\gdm.bff-service\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C771BEC-E2CF-4FEA-BC3F-BF1C929E3EB8}|gdm.bff-service\\gdm.bff-service.csproj|solutionrelative:gdm.bff-service\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C771BEC-E2CF-4FEA-BC3F-BF1C929E3EB8}|gdm.bff-service\\gdm.bff-service.csproj|c:\\personal_projects\\desafio_gdm\\gdm.bff_service\\gdm.bff-service\\gdm.bff-service\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C771BEC-E2CF-4FEA-BC3F-BF1C929E3EB8}|gdm.bff-service\\gdm.bff-service.csproj|solutionrelative:gdm.bff-service\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C771BEC-E2CF-4FEA-BC3F-BF1C929E3EB8}|gdm.bff-service\\gdm.bff-service.csproj|c:\\personal_projects\\desafio_gdm\\gdm.bff_service\\gdm.bff-service\\gdm.bff-service\\services\\ireservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C771BEC-E2CF-4FEA-BC3F-BF1C929E3EB8}|gdm.bff-service\\gdm.bff-service.csproj|solutionrelative:gdm.bff-service\\services\\ireservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C771BEC-E2CF-4FEA-BC3F-BF1C929E3EB8}|gdm.bff-service\\gdm.bff-service.csproj|c:\\personal_projects\\desafio_gdm\\gdm.bff_service\\gdm.bff-service\\gdm.bff-service\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C771BEC-E2CF-4FEA-BC3F-BF1C929E3EB8}|gdm.bff-service\\gdm.bff-service.csproj|solutionrelative:gdm.bff-service\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C771BEC-E2CF-4FEA-BC3F-BF1C929E3EB8}|gdm.bff-service\\gdm.bff-service.csproj|c:\\personal_projects\\desafio_gdm\\gdm.bff_service\\gdm.bff-service\\gdm.bff-service\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C771BEC-E2CF-4FEA-BC3F-BF1C929E3EB8}|gdm.bff-service\\gdm.bff-service.csproj|solutionrelative:gdm.bff-service\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C771BEC-E2CF-4FEA-BC3F-BF1C929E3EB8}|gdm.bff-service\\gdm.bff-service.csproj|c:\\personal_projects\\desafio_gdm\\gdm.bff_service\\gdm.bff-service\\gdm.bff-service\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C771BEC-E2CF-4FEA-BC3F-BF1C929E3EB8}|gdm.bff-service\\gdm.bff-service.csproj|solutionrelative:gdm.bff-service\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C771BEC-E2CF-4FEA-BC3F-BF1C929E3EB8}|gdm.bff-service\\gdm.bff-service.csproj|c:\\personal_projects\\desafio_gdm\\gdm.bff_service\\gdm.bff-service\\gdm.bff-service\\services\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C771BEC-E2CF-4FEA-BC3F-BF1C929E3EB8}|gdm.bff-service\\gdm.bff-service.csproj|solutionrelative:gdm.bff-service\\services\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C771BEC-E2CF-4FEA-BC3F-BF1C929E3EB8}|gdm.bff-service\\gdm.bff-service.csproj|c:\\personal_projects\\desafio_gdm\\gdm.bff_service\\gdm.bff-service\\gdm.bff-service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C771BEC-E2CF-4FEA-BC3F-BF1C929E3EB8}|gdm.bff-service\\gdm.bff-service.csproj|solutionrelative:gdm.bff-service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C771BEC-E2CF-4FEA-BC3F-BF1C929E3EB8}|gdm.bff-service\\gdm.bff-service.csproj|c:\\personal_projects\\desafio_gdm\\gdm.bff_service\\gdm.bff-service\\gdm.bff-service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0C771BEC-E2CF-4FEA-BC3F-BF1C929E3EB8}|gdm.bff-service\\gdm.bff-service.csproj|solutionrelative:gdm.bff-service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C771BEC-E2CF-4FEA-BC3F-BF1C929E3EB8}|gdm.bff-service\\gdm.bff-service.csproj|c:\\personal_projects\\desafio_gdm\\gdm.bff_service\\gdm.bff-service\\gdm.bff-service\\models\\suitetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C771BEC-E2CF-4FEA-BC3F-BF1C929E3EB8}|gdm.bff-service\\gdm.bff-service.csproj|solutionrelative:gdm.bff-service\\models\\suitetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C771BEC-E2CF-4FEA-BC3F-BF1C929E3EB8}|gdm.bff-service\\gdm.bff-service.csproj|c:\\personal_projects\\desafio_gdm\\gdm.bff_service\\gdm.bff-service\\gdm.bff-service\\models\\motel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C771BEC-E2CF-4FEA-BC3F-BF1C929E3EB8}|gdm.bff-service\\gdm.bff-service.csproj|solutionrelative:gdm.bff-service\\models\\motel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C771BEC-E2CF-4FEA-BC3F-BF1C929E3EB8}|gdm.bff-service\\gdm.bff-service.csproj|c:\\personal_projects\\desafio_gdm\\gdm.bff_service\\gdm.bff-service\\gdm.bff-service\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C771BEC-E2CF-4FEA-BC3F-BF1C929E3EB8}|gdm.bff-service\\gdm.bff-service.csproj|solutionrelative:gdm.bff-service\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C771BEC-E2CF-4FEA-BC3F-BF1C929E3EB8}|gdm.bff-service\\gdm.bff-service.csproj|c:\\personal_projects\\desafio_gdm\\gdm.bff_service\\gdm.bff-service\\gdm.bff-service\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C771BEC-E2CF-4FEA-BC3F-BF1C929E3EB8}|gdm.bff-service\\gdm.bff-service.csproj|solutionrelative:gdm.bff-service\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C771BEC-E2CF-4FEA-BC3F-BF1C929E3EB8}|gdm.bff-service\\gdm.bff-service.csproj|c:\\personal_projects\\desafio_gdm\\gdm.bff_service\\gdm.bff-service\\gdm.bff-service\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C771BEC-E2CF-4FEA-BC3F-BF1C929E3EB8}|gdm.bff-service\\gdm.bff-service.csproj|solutionrelative:gdm.bff-service\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\PERSONAL_PROJECTS\\DESAFIO_GDM\\gdm.bff_service\\gdm.bff-service\\gdm.bff-service\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "gdm.bff-service\\Services\\UserService.cs",
+              "ToolTip": "C:\\PERSONAL_PROJECTS\\DESAFIO_GDM\\gdm.bff_service\\gdm.bff-service\\gdm.bff-service\\Services\\UserService.cs",
+              "RelativeToolTip": "gdm.bff-service\\Services\\UserService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T13:17:11.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\PERSONAL_PROJECTS\\DESAFIO_GDM\\gdm.bff_service\\gdm.bff-service\\gdm.bff-service\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "gdm.bff-service\\Services\\IUserService.cs",
+              "ToolTip": "C:\\PERSONAL_PROJECTS\\DESAFIO_GDM\\gdm.bff_service\\gdm.bff-service\\gdm.bff-service\\Services\\IUserService.cs",
+              "RelativeToolTip": "gdm.bff-service\\Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T13:17:04.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\PERSONAL_PROJECTS\\DESAFIO_GDM\\gdm.bff_service\\gdm.bff-service\\gdm.bff-service\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "gdm.bff-service\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\PERSONAL_PROJECTS\\DESAFIO_GDM\\gdm.bff_service\\gdm.bff-service\\gdm.bff-service\\Controllers\\UserController.cs",
+              "RelativeToolTip": "gdm.bff-service\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T13:16:58.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\PERSONAL_PROJECTS\\DESAFIO_GDM\\gdm.bff_service\\gdm.bff-service\\gdm.bff-service\\Models\\User.cs",
+              "RelativeDocumentMoniker": "gdm.bff-service\\Models\\User.cs",
+              "ToolTip": "C:\\PERSONAL_PROJECTS\\DESAFIO_GDM\\gdm.bff_service\\gdm.bff-service\\gdm.bff-service\\Models\\User.cs",
+              "RelativeToolTip": "gdm.bff-service\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T13:16:56.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PERSONAL_PROJECTS\\DESAFIO_GDM\\gdm.bff_service\\gdm.bff-service\\gdm.bff-service\\Program.cs",
+              "RelativeDocumentMoniker": "gdm.bff-service\\Program.cs",
+              "ToolTip": "C:\\PERSONAL_PROJECTS\\DESAFIO_GDM\\gdm.bff_service\\gdm.bff-service\\gdm.bff-service\\Program.cs",
+              "RelativeToolTip": "gdm.bff-service\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T12:37:29.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\PERSONAL_PROJECTS\\DESAFIO_GDM\\gdm.bff_service\\gdm.bff-service\\gdm.bff-service\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "gdm.bff-service\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\PERSONAL_PROJECTS\\DESAFIO_GDM\\gdm.bff_service\\gdm.bff-service\\gdm.bff-service\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "gdm.bff-service\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T12:36:27.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SuiteType.cs",
+              "DocumentMoniker": "C:\\PERSONAL_PROJECTS\\DESAFIO_GDM\\gdm.bff_service\\gdm.bff-service\\gdm.bff-service\\Models\\SuiteType.cs",
+              "RelativeDocumentMoniker": "gdm.bff-service\\Models\\SuiteType.cs",
+              "ToolTip": "C:\\PERSONAL_PROJECTS\\DESAFIO_GDM\\gdm.bff_service\\gdm.bff-service\\gdm.bff-service\\Models\\SuiteType.cs",
+              "RelativeToolTip": "gdm.bff-service\\Models\\SuiteType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T12:35:21.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Motel.cs",
+              "DocumentMoniker": "C:\\PERSONAL_PROJECTS\\DESAFIO_GDM\\gdm.bff_service\\gdm.bff-service\\gdm.bff-service\\Models\\Motel.cs",
+              "RelativeDocumentMoniker": "gdm.bff-service\\Models\\Motel.cs",
+              "ToolTip": "C:\\PERSONAL_PROJECTS\\DESAFIO_GDM\\gdm.bff_service\\gdm.bff-service\\gdm.bff-service\\Models\\Motel.cs",
+              "RelativeToolTip": "gdm.bff-service\\Models\\Motel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T12:35:00.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\PERSONAL_PROJECTS\\DESAFIO_GDM\\gdm.bff_service\\gdm.bff-service\\gdm.bff-service\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "gdm.bff-service\\Models\\Client.cs",
+              "ToolTip": "C:\\PERSONAL_PROJECTS\\DESAFIO_GDM\\gdm.bff_service\\gdm.bff-service\\gdm.bff-service\\Models\\Client.cs",
+              "RelativeToolTip": "gdm.bff-service\\Models\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T12:34:31.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\PERSONAL_PROJECTS\\DESAFIO_GDM\\gdm.bff_service\\gdm.bff-service\\gdm.bff-service\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "gdm.bff-service\\Models\\Reservation.cs",
+              "ToolTip": "C:\\PERSONAL_PROJECTS\\DESAFIO_GDM\\gdm.bff_service\\gdm.bff-service\\gdm.bff-service\\Models\\Reservation.cs",
+              "RelativeToolTip": "gdm.bff-service\\Models\\Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T12:29:55.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReservationService.cs",
+              "DocumentMoniker": "C:\\PERSONAL_PROJECTS\\DESAFIO_GDM\\gdm.bff_service\\gdm.bff-service\\gdm.bff-service\\Services\\ReservationService.cs",
+              "RelativeDocumentMoniker": "gdm.bff-service\\Services\\ReservationService.cs",
+              "ToolTip": "C:\\PERSONAL_PROJECTS\\DESAFIO_GDM\\gdm.bff_service\\gdm.bff-service\\gdm.bff-service\\Services\\ReservationService.cs",
+              "RelativeToolTip": "gdm.bff-service\\Services\\ReservationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T12:22:26.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IReservationService.cs",
+              "DocumentMoniker": "C:\\PERSONAL_PROJECTS\\DESAFIO_GDM\\gdm.bff_service\\gdm.bff-service\\gdm.bff-service\\Services\\IReservationService.cs",
+              "RelativeDocumentMoniker": "gdm.bff-service\\Services\\IReservationService.cs",
+              "ToolTip": "C:\\PERSONAL_PROJECTS\\DESAFIO_GDM\\gdm.bff_service\\gdm.bff-service\\gdm.bff-service\\Services\\IReservationService.cs",
+              "RelativeToolTip": "gdm.bff-service\\Services\\IReservationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T12:21:23.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReservationController.cs",
+              "DocumentMoniker": "C:\\PERSONAL_PROJECTS\\DESAFIO_GDM\\gdm.bff_service\\gdm.bff-service\\gdm.bff-service\\Controllers\\ReservationController.cs",
+              "RelativeDocumentMoniker": "gdm.bff-service\\Controllers\\ReservationController.cs",
+              "ToolTip": "C:\\PERSONAL_PROJECTS\\DESAFIO_GDM\\gdm.bff_service\\gdm.bff-service\\gdm.bff-service\\Controllers\\ReservationController.cs",
+              "RelativeToolTip": "gdm.bff-service\\Controllers\\ReservationController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T12:20:35.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\PERSONAL_PROJECTS\\DESAFIO_GDM\\gdm.bff_service\\gdm.bff-service\\gdm.bff-service\\appsettings.json",
+              "RelativeDocumentMoniker": "gdm.bff-service\\appsettings.json",
+              "ToolTip": "C:\\PERSONAL_PROJECTS\\DESAFIO_GDM\\gdm.bff_service\\gdm.bff-service\\gdm.bff-service\\appsettings.json",
+              "RelativeToolTip": "gdm.bff-service\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-06T12:11:10.144Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

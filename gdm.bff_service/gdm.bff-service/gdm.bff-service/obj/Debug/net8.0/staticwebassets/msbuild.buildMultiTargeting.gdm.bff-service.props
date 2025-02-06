@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\gdm.bff-service.props" />
+</Project>

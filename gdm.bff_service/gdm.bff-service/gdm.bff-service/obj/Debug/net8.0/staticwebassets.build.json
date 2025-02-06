@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "hGdhFegzR/eEHN0EBkYHT/zrSuiFV+Hkb4xiHIPK7xQ=",
+  "Source": "gdm.bff-service",
+  "BasePath": "_content/gdm.bff-service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
