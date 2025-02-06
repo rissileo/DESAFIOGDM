@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\PERSONAL_PROJECTS\\DESAFIO_GDM\\gdm.bff_service\\gdm.bff-service\\gdm.bff-service\\gdm.bff-service.csproj": {}
+    "C:\\GIT\\DESAFIOGDM\\gdm.bff_service\\gdm.bff-service\\gdm.bff-service\\gdm.bff-service.csproj": {}
   },
   "projects": {
-    "C:\\PERSONAL_PROJECTS\\DESAFIO_GDM\\gdm.bff_service\\gdm.bff-service\\gdm.bff-service\\gdm.bff-service.csproj": {
+    "C:\\GIT\\DESAFIOGDM\\gdm.bff_service\\gdm.bff-service\\gdm.bff-service\\gdm.bff-service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PERSONAL_PROJECTS\\DESAFIO_GDM\\gdm.bff_service\\gdm.bff-service\\gdm.bff-service\\gdm.bff-service.csproj",
+        "projectUniqueName": "C:\\GIT\\DESAFIOGDM\\gdm.bff_service\\gdm.bff-service\\gdm.bff-service\\gdm.bff-service.csproj",
         "projectName": "gdm.bff-service",
-        "projectPath": "C:\\PERSONAL_PROJECTS\\DESAFIO_GDM\\gdm.bff_service\\gdm.bff-service\\gdm.bff-service\\gdm.bff-service.csproj",
+        "projectPath": "C:\\GIT\\DESAFIOGDM\\gdm.bff_service\\gdm.bff-service\\gdm.bff-service\\gdm.bff-service.csproj",
         "packagesPath": "C:\\Users\\rissi\\.nuget\\packages\\",
-        "outputPath": "C:\\PERSONAL_PROJECTS\\DESAFIO_GDM\\gdm.bff_service\\gdm.bff-service\\gdm.bff-service\\obj\\",
+        "outputPath": "C:\\GIT\\DESAFIOGDM\\gdm.bff_service\\gdm.bff-service\\gdm.bff-service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -52,19 +52,15 @@
           "dependencies": {
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
-              "version": "[8.0.12, )"
+              "version": "[7.0.2, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[9.0.1, )"
-            },
-            "Microsoft.Extensions.Caching.Memory": {
-              "target": "Package",
-              "version": "[9.0.1, )"
+              "version": "[7.0.2, )"
             },
             "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",
-              "version": "[8.0.2, )"
+              "version": "[7.0.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

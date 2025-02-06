@@ -1,24 +1,27 @@
-using gdm.bff_service.Data;
-using gdm.bff_service.Services;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.IdentityModel.Tokens;
 using Microsoft.Extensions.Caching.Memory;
+using Microsoft.IdentityModel.Tokens;
 using System.Text;
+using gdm.bff_service.Data;
+using gdm.bff_service.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
+// Adicione o serviço de contexto do banco de dados com resiliência a falhas transitórias
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseMySql(builder.Configuration.GetConnectionString("DefaultConnection"),
-    new MySqlServerVersion(new Version(8, 0, 21))));
-
-// Add services to the container.
+    new MySqlServerVersion(new Version(8, 0, 21)),
+    mySqlOptions => mySqlOptions.EnableRetryOnFailure(
+        maxRetryCount: 5,
+        maxRetryDelay: TimeSpan.FromSeconds(30),
+        errorNumbersToAdd: null)));
 
 builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+// Adicione o serviço de cache
 builder.Services.AddMemoryCache();
 
 // Configuração de autenticação JWT
@@ -40,12 +43,12 @@ builder.Services.AddAuthentication(options =>
     };
 });
 
+// Adicionar UserService e ReservationService
 builder.Services.AddScoped<IUserService, UserService>();
 builder.Services.AddScoped<IReservationService, ReservationService>();
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();

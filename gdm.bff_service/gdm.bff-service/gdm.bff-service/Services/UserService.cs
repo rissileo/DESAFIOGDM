@@ -25,16 +25,16 @@ namespace gdm.bff_service.Services
 
         public void Register(User user)
         {
-            if (_context.Users.Any(u => u.Username == user.Username))
+            if (_context.User.Any(u => u.Username == user.Username))
                 throw new Exception("Username already exists");
 
-            _context.Users.Add(user);
+            _context.User.Add(user);
             _context.SaveChanges();
         }
 
         public string Authenticate(string username, string password)
         {
-            var user = _context.Users.SingleOrDefault(x => x.Username == username && x.Password == password);
+            var user = _context.User.SingleOrDefault(x => x.Username == username && x.Password == password);
 
             // Retornar nulo se o usuário não for encontrado
             if (user == null)

@@ -30,7 +30,7 @@ namespace gdm.bff_service.Services
         {
             if (!_cache.TryGetValue(cacheKey, out List<Reservation> cachedReservations))
             {
-                cachedReservations = _context.Reservations
+                cachedReservations = _context.Reservation
                     .AsNoTracking()
                     .Where(r => r.Date >= startDate && r.Date <= endDate)
                     .ToList();
@@ -42,7 +42,7 @@ namespace gdm.bff_service.Services
 
         public decimal GetMonthlyRevenue(int year, int month)
         {
-            var monthlyReservations = _context.Reservations
+            var monthlyReservations = _context.Reservation
                 .AsNoTracking()
                 .Where(r => r.Date.Year == year && r.Date.Month == month)
                 .Sum(r => r.Price);

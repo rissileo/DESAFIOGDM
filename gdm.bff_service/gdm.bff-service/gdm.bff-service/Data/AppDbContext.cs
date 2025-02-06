@@ -9,11 +9,11 @@ namespace gdm.bff_service.Data
     {
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
 
-        public DbSet<SuiteType> SuiteTypes { get; set; }
-        public DbSet<Motel> Motels { get; set; }
-        public DbSet<Client> Clients { get; set; }
-        public DbSet<Reservation> Reservations { get; set; }
-        public DbSet<User> Users { get; set; }
+        public DbSet<SuiteType> SuiteType { get; set; }
+        public DbSet<Motel> Motel { get; set; }
+        public DbSet<Client> Client { get; set; }
+        public DbSet<Reservation> Reservation { get; set; }
+        public DbSet<User> User { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

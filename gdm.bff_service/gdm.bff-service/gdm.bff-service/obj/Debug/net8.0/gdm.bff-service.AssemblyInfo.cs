@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("gdm.bff-service")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87e60061ffdaf9dd2429e8ec447f3d8ddf5d89c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("gdm.bff-service")]
 [assembly: System.Reflection.AssemblyTitleAttribute("gdm.bff-service")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
