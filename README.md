@@ -10,4 +10,4 @@ O projeto está já com o Swagger implementado.
 
 Não conseguirei muito tempo para fazer o vídeo, minha filha está bem resfriada e como estou em casa, procurando dar uma atenção a mais.
 
-O SQL, eu coloquei em um serviõ em nuvem free, porém o DER está no arquivo SQL.md
+O SQL, eu coloquei em um servidor em nuvem free, porém o DER está no arquivo SQL.md. As credenciais estão no appSettings, mas se não quiserem utilizar, não tem problemas, apenas para certificação de que o projeto está rodando.
